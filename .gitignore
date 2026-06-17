@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.tsbuildinfo
+saleshelper.db
+backend/saleshelper.db
+frontend/vite.config.js
+frontend/vite.config.d.ts
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+data/
+.DS_Store
