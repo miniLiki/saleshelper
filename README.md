@@ -13,10 +13,6 @@ SalesHelper 是一个面向企业内部资料的 AI 产品分析推荐系统，�
 
 项目包含前端页面、后端 API、异步任务、文档解析、结构化抽取、向量检索、图谱索引、Evidence Pack、分析任务和辅助问答等能力。
 
-更多系统设计说明可参考：
-
-[docs/cycles-2-6-system-design.md](docs/cycles-2-6-system-design.md)
-
 ---
 
 ## 1. 技术栈 🧱
